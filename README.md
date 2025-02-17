@@ -1,0 +1,2 @@
+# Zooplankton-Abundance-and-Diversity-in-Seagrass-Habitats-Data-and-R-Code-for-Journal-Submission
+This repository contains data and R scripts for analyzing zooplankton abundance in native (Syringodium filiforme, Thalassia testudinum) and invasive (Halophila stipulacea) seagrass habitats, focusing on impacts to juvenile yellowtail snapper (Ocyurus chrysurus) diet. Includes datasets, analysis scripts, and outputs supporting the published study.
